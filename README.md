@@ -36,11 +36,3 @@ Copy the queries from answers.sql.
 Run them in your SQL environment to see the results.
 
 
-
-📌 Notes
-The SQL file contains comments using both -- and /* ... */.
-
-The comments explain the steps I followed.
-
-Date: Date of Submission
-
